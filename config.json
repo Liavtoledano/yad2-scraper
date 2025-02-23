@@ -1,10 +1,11 @@
 {
-  "telegramApiToken": null,
-  "chatId": null,
+  "telegramApiToken": 7872777662:AAE8AeVt1uEIU81YL_JsQzcTYS77XAevS_M,
+  "chatId": "yad2testerbot"
+,
   "projects": [
     {
-      "topic": "",
-      "url": ""
+      "topic": "test",
+      "url": "https://www.yad2.co.il/realestate/rent?topArea=25&area=68&city=9100&price=-1-4500&priceOnly=1&parking=1&furniture=1"
     }
   ]
 }
